@@ -11,4 +11,3 @@ A tool was created to test Wi-Fi networks automatically. This tool interacts wit
 Our tests can be detected by the string `This is a test, see survey.fragattacks.com` that is included in several packets sent during the tests. Our survey is being conducted between February and March 2025 in Belgium and was previously also conducted around Leuven (Belgium) from March to June 2023. You can exclude your network from our tests by adding [`_nomap`](https://support.google.com/maps/answer/1725632?hl=en) or [`_optout`](https://social.technet.microsoft.com/wiki/contents/articles/32109.disabling-wifi-sense-by-gui-and-gpo-script.aspx) to the network name.
 
 If you have any questions or remarks about this experiment, or you want your network to be excluded from future tests, you can contact us by sending an e-mail to mathy.vanhoef@kuleuven.be
-
